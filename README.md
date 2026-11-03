@@ -11,7 +11,8 @@
 > * **国行设备 100% 满血兼容**：中国大陆版 (`CH/A`) Mac mini 在本机房联网后，运行 Claude Code、Cursor、Docker/OrbStack 及本地大模型与北美版完全一致，无任何算力或访问限制。
 > * **工业级无头运维**：全系标配 4K HDMI 硬件显卡欺骗器（彻底激活远程桌面 GPU 硬件加速）、底层防休眠 (`pmset`)、来电自动开机与 UPS 不间断电源保护。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 🔥 六大核心业务方案（按需选择）
 
@@ -40,7 +41,9 @@
 * **适合人群**：需要跑本地量化大模型（Ollama / MLX）或复杂编译，但预算有限的个人开发者。
 * **核心优势**：基于 macOS 原生多用户隔离或 Lume / Tart 虚拟化技术，将大内存高配机型切分为 2–3 个独立的开发者容器/工作区。每人仅需 **$29 USD/月起** 即可享受北美原生网络 + Apple Silicon 高配算力与 Claude Code 开发环境。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
+
 ## 🔥 三大核心业务矩阵（共 12 大落地玩法）
 
 ### 矩阵一：硬件托管与二手流转闭环（极致性价比）
@@ -65,7 +68,8 @@
 7. **高配机型“多人合租 / 容器切分”工作区 (M4 Pro / Mac Studio)**
    * **痛点与方案**：基于 macOS 原生多用户隔离与 Lume / Tart 虚拟化，将大内存高配机型切分为 2–3 个独立开发者工作区。每人仅需 **$29 USD/月起** 即可低门槛畅享北美网络与本地量化大模型（Ollama / MLX）算力。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ### 矩阵三：跨境防关联、美股量化与私有云生态
 
@@ -80,7 +84,8 @@
 12. **果粉云家庭实验室 & iCloud 异地物理冷备中心 (Cloud HomeLab)**
     * **痛点与方案**：挂载 4TB/8TB 外置阵列，在加拿大机房开启真实 Mac 的“iCloud 图库/云盘原片下载落盘”，实现全家人数据的跨国物理防丢灾备；同时配合 Tailscale 与 Content Caching 打造 Apple TV / Plex 北美流媒体解码中心。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 💰 资费标准一览表 (Pricing Overview)
 
@@ -94,7 +99,8 @@
 | **7. 高配容器/工作区合租** | **$29 – $35 / 月** | 月付起 | 分配独立 macOS 终端/桌面环境与 SSH 端口，低成本畅享 Claude Code |
 | **8. 系统救砖重装 (DFU)** | **$30 / 次** | 按需计费 | 仅当客户自行改崩系统网络导致彻底失联，需人工接显示器或 DFU 刷机时收取 |
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 📦 自带设备跨国邮寄与清关规则（托管客户必读！）
 
@@ -108,7 +114,8 @@
   若您使用 DHL / FedEx / UPS / 顺丰国际直寄加拿大，下单时必须勾选 **DDP（Delivered Duty Paid，关税及税费由寄件人支付）**。
   * *注：若使用 EMS 或未开启 DDP 的商业快递，您必须在发货前向我司预存 **$100 USD 清关代缴押金**（快递出税单后凭官方账单截图实报实销，多退少补）。**任何未提前报备且未交押金的“到付运费/到付税单”包裹，机房将一律直接拒收退回！***
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 🛠️ 寄件前设备准备清单 (Pre-Shipping Checklist)
 
@@ -124,7 +131,8 @@
 - [ ] **4. 严密防震包装与身份标识**
   * 原厂包装盒外请缠绕至少 3 层加厚气泡柱以防跨国暴力分拣。请在 Mac mini 机身底部贴上纸条，清晰注明您的 **【MacHub 订单号 + 微信/Telegram/WhatsApp 联系方式】**。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 🚀 托管服务流程与产权保障
 
@@ -136,13 +144,13 @@
 * **硬件自然老化免责**：机房提供工业级稳压电源与恒温散热环境，但不对二手设备自身的硬件暗病、SSD 寿命耗尽或主板自然老化承担保修责任（如需送修加拿大本地 Apple Store，机房可提供有偿代跑腿服务）。
 * **账单逾期条款**：请于账单到期前完成续费。逾期 **7 天** 暂停网络端口；逾期超过 **30 天** 未续费且失联，视为客户自动放弃硬件所有权，机房有权直接抹盘并将设备清退处置以抵扣机位占用成本。
 
----
+---有任何问题请咨询我们的工程师：
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-联系工程师-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=17052807570)
 
 ## 📞 立即预约机位与咨询 (Contact Us)
 
 机房机位与原生 IP 配额有限，发货或下单前请先联系我们确认档期：
 
 * 🌐 **官方网站**：[https://machub.co](https://machub.co)
-* 💬 **WhatsApp 在线支持**：`+1 (705) 280-7570`
 * 💬 **Reddit 社区讨论**：[r/machub123](https://www.reddit.com/r/machub123/)
 * 📧 **商务与工单咨询**：请通过官网联系客服，或直接在本仓库提交 GitHub Issue！
